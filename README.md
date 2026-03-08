@@ -1,3 +1,7 @@
+<p align="center">
+<img src=foto4.jpg width="900">
+</p>
+
 # 👋 Hola, soy Verónica Almeida
 
 💻 **QA Tester | Manual Testing | Test Case Design | Bug Reporting | API Testing**
