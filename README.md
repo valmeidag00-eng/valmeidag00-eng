@@ -1,6 +1,6 @@
 # 👋 Hola, soy Verónica Almeida
 
-💻 **QA Engineer | Testing de Software | Bootcamp TripleTen**
+💻 **QA Tester | Manual Testing | Test Case Design | Bug Reporting | API Testing**
 
 Soy una QA Engineer en formación apasionada por mejorar la calidad del software mediante pruebas, detección de errores y documentación clara.  
 Actualmente estoy desarrollando mi portafolio de QA en testing de software.
