@@ -46,15 +46,6 @@ Este proyecto incluye:
 
 ---
 
-## 🚀 Actualmente aprendiendo
-
-- Testing de API
-- SQL para QA
-- Fundamentos de automatización de pruebas
-- Metodologías de testing de software
-
----
-
 ## 📫 Contacto
 
 📧 Email: valmeidag00@gmail.com  
