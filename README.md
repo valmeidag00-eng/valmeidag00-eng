@@ -33,11 +33,9 @@ Actualmente estoy desarrollando mi portafolio de QA en testing de software.
 
 📧 Email: valmeidag00@gmail.com  
 
-🔗 GitHub  
-https://github.com/valmeidag00-eng  
+🔗 GitHub: https://github.com/valmeidag00-eng  
 
-💼 LinkedIn  
-https://www.linkedin.com/in/veronica-almeida-qa/
+💼 LinkedIn: https://www.linkedin.com/in/veronica-almeida-qa/
 
 ---
 
