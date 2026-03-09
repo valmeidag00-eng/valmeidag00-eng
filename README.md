@@ -29,23 +29,6 @@ Actualmente estoy desarrollando mi portafolio de QA en testing de software.
 
 ---
 
-## 📂 Portafolio de QA
-
-Aquí puedes ver algunos de mis proyectos de testing:
-
-🔹 **Proyecto QA Portfolio**  
-Repositorio:  
-https://github.com/valmeidag00-eng/qa-portfolio
-
-Este proyecto incluye:
-
-- Casos de prueba
-- Reportes de bugs
-- Documentación de testing
-- Análisis de calidad
-
----
-
 ## 📫 Contacto
 
 📧 Email: valmeidag00@gmail.com  
