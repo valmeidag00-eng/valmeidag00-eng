@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/valmeidag00-eng/valmeidag00-eng/main/foto4.jpg" width="900">
-</p>
-
 # 👋 Hola, soy Verónica Almeida
 
 💻 **QA Tester | Manual Testing | Test Case Design | Bug Reporting | API Testing**
